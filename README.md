@@ -1,8 +1,4 @@
-# headcount
+# HeadCount
 
-tech stack:
-
-frontend -> react & django
-
-backend -> python, azure AI api 
+Live video stream attendance tracking application
 
